@@ -7,16 +7,7 @@ Sou apaixonado por resolver problemas complexos e encontrar insights valiosos a 
 
 ## Áreas de Interesse 🌟
 
-### Engenharia de Dados | Azure
-- AWS
-- Big Data
-- Python
-- SQL
-- Pyspark
-
-## Projetos 🚀
-
-Atualmente, estou trabalhando em alguns projetos pessoais para aplicar os conceitos que aprendi em engenharia de dados. Fique à vontade para explorar meus repositórios para saber mais sobre esses projetos.
+🚀 Engenharia de Dados | Azure | AWS | Big Data | Python | SQL| Pyspark
 
 ## Contato 📬
 
