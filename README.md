@@ -22,7 +22,7 @@ Atualmente, estou trabalhando em alguns projetos pessoais para aplicar os concei
 
 ## Contato 📬
 
-- LinkedIn: [Rafael R Marcolino](https://www.linkedin.com/in/seu-perfil-linkedin)
-- Email: seuemail@example.com
+- LinkedIn: [Rafael R Marcolino](https://www.linkedin.com/in/rafael-reinaldo-marcolinoproj/)
+- Email: ralfrr55@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
