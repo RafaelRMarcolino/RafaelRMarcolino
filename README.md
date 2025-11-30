@@ -11,7 +11,7 @@ Sou apaixonado por resolver problemas complexos e encontrar insights valiosos a 
 
 ## Contato 📬
 
-- LinkedIn: [Rafael R Marcolino](https://www.linkedin.com/in/rafael-reinaldo-marcolinoproj/)
+- LinkedIn: [Rafael Reianaldo](https://www.linkedin.com/in/rafael-reinaldo-marcolinoproj/)
 - Email: ralfrr55@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração!
