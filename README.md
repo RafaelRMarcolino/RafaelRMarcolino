@@ -1,6 +1,6 @@
 # Rafael Reinaldo 👨‍💻
 
-Olá! Eu sou Rafael R Marcolino, um Engenheiro de Dados apaixonado por tecnologia e focado na area de dados.
+Olá! Eu sou Rafael Reinaldo, um Engenheiro de Dados apaixonado por tecnologia e focado na area de dados.
 ## Sobre mim ℹ️
 
 Sou apaixonado por resolver problemas complexos e encontrar insights valiosos a partir de grandes conjuntos de dados. Minha jornada na área de engenharia de dados começou com um interesse profundo em como os dados podem ser aproveitados para tomar decisões informadas e impulsionar o crescimento de negócios.
